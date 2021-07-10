@@ -1,0 +1,16 @@
+   .code{
+    font: italic bold 20px Georgia, serif;
+    color: rgb(0, 0, 0);
+    }
+    button{
+        height: 38px;
+        background-color: aquamarine;
+        border: 2px solid black;
+        color: black;
+        width: 200px;
+    }
+.textbox{
+        width: 200px;
+        height: 20px;
+        text-align: center;
+    }
